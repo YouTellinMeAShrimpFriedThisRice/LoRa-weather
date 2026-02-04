@@ -1,3 +1,4 @@
+#This is a JSON sample as a reference point for parameters
 {
     "macAddress": "00:00:00:00:00:00",
     "dateutc": 1515436500000,
